@@ -1,0 +1,22 @@
+.headernav {
+    position: relative;
+    height: 10px;
+    min-height: 100px; 
+    background-size: cover;
+    overflow: hidden;
+  }
+.navbar{
+    color: black;
+}
+  /* Ajoutez ceci à votre fichier CSS */
+.scrolled {
+    background-color: white;
+}
+
+.scrolled .navbar-nav .nav-item .nav-link {
+    color: black; /* Couleur du texte en noir */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: black; /* Couleur du texte en noir */
+}
