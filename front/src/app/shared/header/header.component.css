@@ -5,4 +5,17 @@
 
 .scrolled .navbar-nav .nav-item .nav-link {
     color: black; /* Couleur du texte en noir */
+}    
+
+.navbar.custom-navbar {
+    min-height: 80px; /* Définissez la hauteur minimale de la navbar selon vos besoins */
+}
+
+.navbar-brand img {
+    max-height: 40px; /* Réduisez la hauteur du logo */
+} 
+
+.navbar-nav .nav-link {
+    padding-top: 10px; /* Réduisez l'espace en haut et en bas des éléments du menu */
+    padding-bottom: 10px;
 }
